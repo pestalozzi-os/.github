@@ -1,1 +1,1 @@
-## Pestalozzi OS Großschönau Github Organisation
+## Pestalozzi OS Github Organisation
